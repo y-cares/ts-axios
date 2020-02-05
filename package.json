@@ -12,7 +12,7 @@
   "author": "y-cares <447936712@qq.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/y-cares/ts-axios.git"
   },
   "license": "MIT",
   "engines": {
